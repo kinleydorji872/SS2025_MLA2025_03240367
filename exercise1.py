@@ -61,10 +61,11 @@ env.close()
 # ANSWER: The four continous space are:
 #1.Cart position : How far the cart is from centre.
 #2.Cart velocity: How fast the cart is moving either left or right.
-#3.Pole angle : How titled the pole is .
+#3.Pole angle : How tilted the pole is .
 #4.Pole angular velocity: How fast the pole is rotating.
 
 #Run the random agent for one episode. What does the reward seem to represent in this environment? (Hint: you get a reward for every step the pole remains balanced)
 # ANSWER; For every epsiode when the pole is balance, the reward of one point is given.
 #reward=1
 #total_reward + = reward
+
